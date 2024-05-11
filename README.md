@@ -26,13 +26,9 @@ To use the dashboards:
 2. Ensure you download any associated images used within the dashboards for buttons, filters, and backgrounds to maintain the intended visual layout and functionality.
 
 ## Contributing
-
-This project is currently not open for contributions. However, feel free to explore the dashboards and use them as a reference for your own projects.
+Currently, this project is not open for contributions. However, feel free to explore the dashbaords and use them as a reference for your dashboard projects.
 
 ## License
-
-This repository is provided as-is, and no specific license has been applied to the content. You are free to use and distribute the dashboards, but please do so responsibly and ethically.
-
----
+This project is licensed under the MIT License - see the LICENSE.md file for details. The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don’t hold you liable.
 
 Enjoy exploring the dashboards, and stay tuned for more updates and additions to this repository!
